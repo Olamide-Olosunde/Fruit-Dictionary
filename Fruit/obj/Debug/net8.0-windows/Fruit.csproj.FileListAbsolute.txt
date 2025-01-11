@@ -1,0 +1,17 @@
+C:\Users\DSU Student\source\repos\Fruit\Fruit\obj\Debug\net8.0-windows\Fruit.Form1.resources
+C:\Users\DSU Student\source\repos\Fruit\Fruit\obj\Debug\net8.0-windows\Fruit.csproj.GenerateResource.cache
+C:\Users\DSU Student\source\repos\Fruit\Fruit\obj\Debug\net8.0-windows\Fruit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DSU Student\source\repos\Fruit\Fruit\obj\Debug\net8.0-windows\Fruit.AssemblyInfoInputs.cache
+C:\Users\DSU Student\source\repos\Fruit\Fruit\obj\Debug\net8.0-windows\Fruit.AssemblyInfo.cs
+C:\Users\DSU Student\source\repos\Fruit\Fruit\obj\Debug\net8.0-windows\Fruit.csproj.CoreCompileInputs.cache
+C:\Users\DSU Student\source\repos\Fruit\Fruit\bin\Debug\net8.0-windows\Fruit.exe
+C:\Users\DSU Student\source\repos\Fruit\Fruit\bin\Debug\net8.0-windows\Fruit.deps.json
+C:\Users\DSU Student\source\repos\Fruit\Fruit\bin\Debug\net8.0-windows\Fruit.runtimeconfig.json
+C:\Users\DSU Student\source\repos\Fruit\Fruit\bin\Debug\net8.0-windows\Fruit.dll
+C:\Users\DSU Student\source\repos\Fruit\Fruit\bin\Debug\net8.0-windows\Fruit.pdb
+C:\Users\DSU Student\source\repos\Fruit\Fruit\obj\Debug\net8.0-windows\Fruit.dll
+C:\Users\DSU Student\source\repos\Fruit\Fruit\obj\Debug\net8.0-windows\refint\Fruit.dll
+C:\Users\DSU Student\source\repos\Fruit\Fruit\obj\Debug\net8.0-windows\Fruit.pdb
+C:\Users\DSU Student\source\repos\Fruit\Fruit\obj\Debug\net8.0-windows\Fruit.genruntimeconfig.cache
+C:\Users\DSU Student\source\repos\Fruit\Fruit\obj\Debug\net8.0-windows\ref\Fruit.dll
+C:\Users\DSU Student\source\repos\Fruit\Fruit\obj\Debug\net8.0-windows\Fruit.Properties.Resources.resources
